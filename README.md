@@ -23,6 +23,6 @@ I am Student at Almdrsa , learning : python, html, css, and more. <br/>
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yousefdergham](https://www.linkedin.com/in/abdo-sead-674b92347/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdo-sead-674b92347/)
 
 </div>
